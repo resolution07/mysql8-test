@@ -1,0 +1,1 @@
+docker exec -i mysql_test mysql -u FB0pr297)R{Env@ -p'FB0pr297)R{Env@' airbnb_demo < backup.sql

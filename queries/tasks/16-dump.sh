@@ -1,0 +1,1 @@
+docker exec mysql_test mysqldump -u root -p'FB0pr297)R{Env@' mysql_test > backup.sql
